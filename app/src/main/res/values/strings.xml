@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sample_w_Preference</string>
+
+    <string name="Candy_Preferences">Candy Preferences</string>
+
+    <string name="title_Chocolate_Preference">Chocolate</string>
+    <string name="summary_checkbox_preference">If you like chocolate check this box</string>
+
+    <string name="title_Gummi_Bears">Gummi Bears </string>
+    <string name="summary_gummi_bears">If you like gummi bears check this box</string>
+
+
+    <string name="title_Jelly_Beans">Jelly Beans</string>
+    <string name="summary_Jelly_Beans">If you like jelly beans check this box</string>
+</resources>

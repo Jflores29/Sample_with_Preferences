@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Candy_Preferences" >
+        <CheckBoxPreference
+            android:key="Chocolate_Preference"
+            android:title="@string/title_Chocolate_Preference"
+            android:summary="@string/summary_checkbox_preference"></CheckBoxPreference
+            >
+        <CheckBoxPreference
+            android:key="Jelly_Beans"
+            android:title="@string/title_Gummi_Bears"
+            android:summary="@string/summary_gummi_bears"></CheckBoxPreference>
+        <CheckBoxPreference
+            android:key="Chocolate_Preference"
+            android:title="@string/title_Jelly_Beans"
+            android:summary="@string/summary_Jelly_Beans"></CheckBoxPreference>
+
+
+    </PreferenceCategory>
+</PreferenceScreen>
